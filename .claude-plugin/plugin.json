@@ -1,0 +1,1 @@
+{ "name": "weekly-usage-meter", "version": "0.1.0", "description": "A meter above the prompt and in the status line that fills as your weekly Claude limit is used.", "types": "./types/index.d.ts" }
