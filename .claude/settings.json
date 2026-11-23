@@ -1,0 +1,8 @@
+{
+  "extraKnownMarketplaces": {
+    "claude-weekly-usage-meter": {
+      "source": { "source": "github", "repo": "simscooper14-droid/claude-weekly-usage-meter" }
+    }
+  },
+  "enabledPlugins": { "weekly-usage-meter@claude-weekly-usage-meter": true }
+}
